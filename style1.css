@@ -1,0 +1,45 @@
+body {
+    background: blue;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 30px auto;
+    width: 50%;
+}
+
+h1 {
+    text-align: center;
+}
+
+#felkover {
+    font-weight: bold;
+}
+
+div {
+    text-align: center;
+}
+
+ul li ul li {
+    list-style-type: none;
+    font-weight: normal;
+}
+
+ul li ul li:first-child {
+    padding-top: 15px;
+}
+
+ul li ul li:last-child {
+    padding-bottom: 15px;
+}
+
+#kepek {
+    padding: 5px;
+    width: 120px;
+}
+
+div {
+    text-align: center;
+}
+
+#kepek {
+    float: right;
+}
